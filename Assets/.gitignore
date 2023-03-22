@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!package.png
+!/Section
+!/Scenes
+
+
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta

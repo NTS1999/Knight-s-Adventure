@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Attack
+  - MoveablePlatform
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Stand
+  - Player
+  - Enemy
+  - Ground
+  - Ladder
+  - HitPoint
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3816538307
+    locked: 0
+  - name: Platform
+    uniqueID: 3293391913
+    locked: 0
+  - name: Ladder
+    uniqueID: 1977250435
+    locked: 0
+  - name: Character
+    uniqueID: 2041346423
+    locked: 0
+  - name: UI
+    uniqueID: 1700817561
+    locked: 0
